@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to FrontEnd Roadmap repository! 👋🏻</h1>
 
-![Screenshot](https://user-images.githubusercontent.com/50922642/155069428-6b5202e2-0320-428f-b14a-99a6a596dab7.jpg)
+![image](https://github.com/kdandy/FrontEnd-Roadmap/assets/50922642/6a938ac5-b2ba-4c8b-b493-7023f1e8e653)
 
 <p></p>
 
