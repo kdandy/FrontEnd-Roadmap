@@ -4,7 +4,7 @@
 
 <p></p>
 
-<h4 align="center">The frontend roadmap is a guide that outlines the skills, technologies, and concepts that are important for frontend developers to learn and master. It provides a structured path for individuals who want to become proficient in frontend development. <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>.
+<h4 align="center">The frontend roadmap is a guide that outlines the skills, technologies, and concepts that are important for frontend developers to learn and master. It provides a structured path for individuals who want to become proficient in frontend development.
 </h4>
 
 <p></p>
